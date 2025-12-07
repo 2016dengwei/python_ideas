@@ -3,6 +3,8 @@
 Created on Mon Aug  4 12:21:23 2025
 
 @author: 2008d
+
+edit test for git @20251207
 """
  
 xi=[1,0]
